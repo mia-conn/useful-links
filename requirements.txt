@@ -1,2 +1,1 @@
-mkdir -p docs
-touch docs/requirements.txt
+mkdocs>=1.5.0
