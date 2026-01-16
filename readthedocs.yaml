@@ -8,6 +8,5 @@ build:
 mkdocs:
   configuration: mkdocs.yml
 
-python:
-  install:
-    - requirements: docs/requirements.txt
+# Requirements kısmını TAMAMEN kaldırın veya değiştirin
+formats: all
