@@ -1,0 +1,2 @@
+mkdir -p docs
+touch docs/requirements.txt
